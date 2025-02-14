@@ -10,3 +10,7 @@ With additional text for this new header
 var myVar = "Hello, world!";
 var mySum = 1 + 2;
 ```
+# Task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
